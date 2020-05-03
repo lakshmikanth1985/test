@@ -1,0 +1,5 @@
+com\vmware\calc\config\BasicConfiguration.class
+com\vmware\calc\controller\CalcController.class
+com\vmware\calc\VmwareCalcApplication.class
+com\vmware\calc\bean\OutputParams.class
+com\vmware\calc\bean\InputParams.class
